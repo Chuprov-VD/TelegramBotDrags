@@ -1,0 +1,2 @@
+# Telegram bot for accounting of narcotic and psychotropic drugs for the department of anesthesiology and intensive care
+# Telegram-бот для учета наркотических и психотропных средств для отделения анестезиологии и реанимации
